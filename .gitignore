@@ -1,0 +1,23 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Configuración de VS Code
+.vscode/
+
+# Configuración de PyCharm
+.idea/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
